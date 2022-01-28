@@ -23,5 +23,6 @@
 </p>
 
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethsajo&exclude_repo=acz-sales-expense-system&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethsajo&exclude_repo=acz-sales-expense-system&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=nethsajo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </div>
