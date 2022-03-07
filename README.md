@@ -1,6 +1,6 @@
 <h3 align="center">Hello, I'm Neth 👋. An Information Technology graduate and self-taught Web Developer. I'm currently learning Web Development and I love building websites. </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nethsajo&label=Profile%20views&color=0e75b6&style=flat-square" alt="nethsajo" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nethsajo&label=PROFILE+VIEWS&color=1e68f9&style=for-the-badge" alt="nethsajo" /></p>
 
 <h3 align="center">Get in touch with me:</h3>
 
