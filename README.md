@@ -1,8 +1,10 @@
-<h3 align="center">Hello, I'm Kenneth 👋. An Information Technology graduate and self-taught Web Developer. I'm currently learning Web Development and I love building websites. </h3>
+### Hello! 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nethsajo&label=PROFILE+VIEWS&color=1e68f9&style=for-the-badge" alt="nethsajo" /></p>
+- 💼 Senior Database Programmer
+- 📚 Learning React, Node, and TypeScript 
+- ✉️ Contact: jankennethsajo@gmail.com
 
-<h3 align="center">Get in touch with me:</h3>
+### >Get in touch with me:
 
 <p align="center">
    <a href="https://mail.google.com/mail/u/?authuser=jankennethsajo@gmail.com">
