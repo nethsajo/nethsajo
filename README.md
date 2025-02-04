@@ -4,9 +4,9 @@
 - 📚 Learning React, Node, and TypeScript 
 - ✉️ Contact: jankennethsajo@gmail.com
 
-### >Get in touch with me:
+### Get in touch with me:
 
-<p align="center">
+<p>
    <a href="https://mail.google.com/mail/u/?authuser=jankennethsajo@gmail.com">
       <img src="https://img.shields.io/badge/jankennethsajo-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25">
    </a>
